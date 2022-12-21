@@ -11,5 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Felix-TGS&theme=modern-lilac2&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=03030397)](https://git.io/streak-stats)
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/262149728743981078)](https://discord.com/users/262149728743981078)
