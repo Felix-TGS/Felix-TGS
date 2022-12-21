@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felix-TGS and my real name is Batkhuyag Bavuudorj
-- 👀 I’m interested in all things AI or Tech related overall.
-- 🌱 I’m currently learning python ML-Agents, C#(Unity), Lua(on Roblox), HTML5, CSS, JS
+- 👀 I’m interested in all things tech.
+- 🌱 I’m currently learning python ML-Agents, C#(Unity), Lua(on Roblox), Web Development
 - 💞️ I'm currently not interested in finding and collaborating on projects... sorry.
 - 📫 You can contact me at batkhuyag2006@gmail.com or FelixTGS#3164 on discord.
