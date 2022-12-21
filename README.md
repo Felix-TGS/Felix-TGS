@@ -15,4 +15,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Felix-TGS&theme=holi-theme&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=03030397)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Felix-TGS&theme=modern-lilac2&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=03030397)](https://git.io/streak-stats)
