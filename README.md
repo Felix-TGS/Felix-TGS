@@ -8,7 +8,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ### :computer: Experience :
-- Roblox Game Development (+4 years)
+- Roblox Game Development (4+ years)
 - Unity Game Development (~1 year)
 - Web Development (~1 year)
 
